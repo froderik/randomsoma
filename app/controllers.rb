@@ -1,3 +1,5 @@
+require 'open-uri'
+
 Randomsoma.controller do
   get :index do
     render 'index'
