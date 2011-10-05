@@ -1,0 +1,14 @@
+/* TEAM */
+Programmer: Fredrik Rubensson
+Contact: https://github.com/froderik 
+Twitter: @froderik
+Location: Sollentuna, Sweden.
+
+/* THANKS */
+Dice image: trdesignr @ flickr
+Contact: http://www.flickr.com/photos/dynamica/
+
+/* SITE */
+Last update: 2011-10-05
+Tools: textmate, padrino and jquery
+

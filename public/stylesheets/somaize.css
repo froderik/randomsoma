@@ -2,12 +2,17 @@ body {
     background: black;
 }
 
+iframe {
+    width: 400px;
+    height: 230px;
+}
+
 .midst {
-    padding: 15em;
+    padding-top: 10em;
     margin: auto;
-    text-align: canter;
-    width: 5em;
+    text-align: center;
 }
 
 .dabutton {
+  font-family: 'Just Me Again Down Here', cursive;
 }
