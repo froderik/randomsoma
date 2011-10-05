@@ -13,6 +13,6 @@ iframe {
     text-align: center;
 }
 
-.dabutton {
-  font-family: 'Just Me Again Down Here', cursive;
+.randomizer {
+    cursor: pointer;
 }
